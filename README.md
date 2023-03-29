@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **aurorakynkor@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aurora-kynkor-6592b6249/](https://www.linkedin.com/in/aurora-kynkor-6592b6249/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/aurora-kynkor-6592b6249/](https://www.linkedin.com/in/aurora-kynkor/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
