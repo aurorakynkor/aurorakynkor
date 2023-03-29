@@ -9,6 +9,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/aurora-kynkor-6592b6249/](https://www.linkedin.com/in/aurora-kynkor/)
 
+- Check out my projects: https://github.com/aurorakynkor?tab=repositories
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aurora-kynkor-6592b6249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aurora-kynkor-6592b6249" height="30" width="40" /></a>
